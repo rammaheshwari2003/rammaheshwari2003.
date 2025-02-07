@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rammaheshwari2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rammaheshwari2003&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rammaheshwari2003&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rammaheshwari2003&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammaheshwari2003&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
